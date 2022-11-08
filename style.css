@@ -13,7 +13,7 @@ height: 100%;
 
 body{
 font-family: 'Product Sans', sans-serif;
-
+font-size: 13px;
 background-color:#ffd454;
  /* rgb(244,213,35) */
  /* #f5d54e; */
@@ -56,7 +56,7 @@ color:#000;
 .colorHolder{
 color: black;
 animation: tilt-shaking 0.3s infinite;
-font-size: 32px;
+font-size: 1.5rem;
 font-weight: 400;
 line-height: 21px;
 letter-spacing: 3px;
