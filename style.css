@@ -51,6 +51,10 @@ background: none;
 color:#000;
 }
 
+input:hover{
+cursor: pointer;
+}
+
 
 
 .colorHolder{
